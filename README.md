@@ -6,6 +6,8 @@
 
 > bubble_sort_by method that accepts an unsorted array and returns sorted array by sorting based on the comparison provided in a block using yield method.
 
+![screenshot](./assets/img/app_screenshot.png)
+
 ## Built With
 
 - Ruby
