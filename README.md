@@ -2,7 +2,8 @@
 
 # Bubble Sort
 
-> bubble_sort method that accepts an unsorted array and returns a sorted array
+> bubble_sort method that accepts an unsorted array and returns a sorted array.
+
 > bubble_sort_by method that accepts an unsorted array and returns sorted array by sorting based on the comparison provided in a block using yield method.
 
 ## Built With
@@ -33,7 +34,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Newsweek
+- Ruby docmentation
+- [Ruby Guides](https://www.rubyguides.com/)
 
 ## 📝 License
 
